@@ -1,3 +1,3 @@
 # hussain
 
-Click to visit website https://mohammedhussi.github.io/hussain/
+Click to visit website: https://mohammedhussi.github.io/hussain/
